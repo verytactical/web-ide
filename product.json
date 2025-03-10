@@ -19,8 +19,8 @@
 	"additionalBuiltinExtensions": [
 		{
 			"scheme": "https",
-			"authority": "verytactical.github.io/web-ide/",
-			"path": "static/extensions/vscode-web-playground"
+			"authority": "verytactical.github.io",
+			"path": "/web-ide/static/extensions/vscode-web-playground"
 		}
 	]
 }
